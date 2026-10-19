@@ -23,7 +23,7 @@ client-side and works offline.
 `Electron` · deployed on `Cloudflare`
 
 ### 🧮 MathLeague — fast, offline-first maths practice game
-**▶️ Play it now: https://namarabenjaminkamugisha-arch.github.io/mathleague/**  ·  💻 Code: https://github.com/namarabenjaminkamugisha-arch/mathleague
+**▶️ Play it now: https://namarabenjaminkamugisha-arch.github.io/mathleague/**
 
 A gamified maths-practice app that makes drilling the fundamentals genuinely
 fun — with **leagues, streaks, power-ups and step-by-step explanations**.
