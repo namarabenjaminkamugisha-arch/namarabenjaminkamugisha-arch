@@ -22,6 +22,16 @@ client-side and works offline.
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `WebAssembly` · `PWA` ·
 `Electron` · deployed on `Cloudflare`
 
+### CyberBenji — free, on-device Android security toolkit
+**Download (no account, no cost): https://namarabenjaminkamugisha-arch.github.io/cyberbenji-app/**
+
+A privacy-first Android app that puts practical security in one place: scan
+links, files and messages against threat intelligence, a live phishing/scam
+monitor, a device-wide DNS filter, Wi-Fi and exposure checks, and a digital
+footprint / breach lookup. Scans run **on-device** — no accounts, no tracking.
+
+`Android` · on-device scanning · DNS filtering · OSINT · threat intelligence
+
 ### MathLeague — fast, offline-first maths practice game
 **Play it now: https://namarabenjaminkamugisha-arch.github.io/mathleague/**
 
